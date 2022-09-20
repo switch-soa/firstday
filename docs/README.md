@@ -1,5 +1,13 @@
-
 target
+
+```
+quickly deploy on private cloud, keep stable & performance & security & easy
+	techenology + mechainism
+```
+
+
+
+details
 
 ```markdown
 deploy
