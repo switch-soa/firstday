@@ -1,0 +1,9 @@
+https://github.com/k3s-io/k3s/releases
+
+
+file:
+    k3s
+    k3s-airgap-images-amd64.tar.gz
+
+version:
+    v1.25.0+k3s1
