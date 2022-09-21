@@ -1,2 +1,7 @@
 install k3s on ubuntu & debian  <low priority>
 install k3s on arm64            <low priority>
+
+
+bitnami support arm64
+    why it doesn't support  arm64
+    how can make it support arm64

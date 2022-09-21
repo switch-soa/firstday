@@ -1,0 +1,14 @@
+how to install it on your pc?
+    download file:
+        in this page: https://github.com/kubernetes/kubernetes/releases
+        find the latest version: https://github.com/kubernetes/kubernetes/releases/tag/v1.25.1
+        and click changelog: https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.25.md
+        choose the type is: Client Binaries
+        choose the platform is: windows-amd64
+        target download url is: https://dl.k8s.io/v1.25.1/kubernetes-client-windows-amd64.tar.gz
+        extract it to local fix dir, like this: D:\server_files\k8s\v1.25.1
+    set path:
+        PATH        D:\program_files\connect\k8s\v1.25.1\kubernetes\client\bin
+        KUBECONFIG
+    verify it:
+        kubectl version

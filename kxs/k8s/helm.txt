@@ -1,0 +1,11 @@
+how to install it on your pc?
+    download file:
+        in this page: https://github.com/helm/helm/releases
+        find the latest version: https://github.com/helm/helm/releases/tag/v3.9.4
+        find the suitable platform: Windows amd64
+        target download url is: https://get.helm.sh/helm-v3.9.4-windows-amd64.zip
+        extract it to local fix dir, like this: D:\server_files\k8s\helm\windows-amd64
+    set path:
+        PATH    D:\program_files\connect\k8s\helm\windows-amd64
+    verify it:
+        helm version

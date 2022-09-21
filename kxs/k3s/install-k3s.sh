@@ -37,5 +37,5 @@ systemctl status k3s.service
 sleep 30
 kubectl get nodes
 kubectl get pod -A
-
+cat /etc/rancher/k3s/k3s.yaml
 echo "" >/var/lib/rancher/k3s/installed-k3s
