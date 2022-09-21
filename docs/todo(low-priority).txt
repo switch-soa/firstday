@@ -1,0 +1,2 @@
+install k3s on ubuntu & debian  <low priority>
+install k3s on arm64            <low priority>

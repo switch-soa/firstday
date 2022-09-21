@@ -1,0 +1,2 @@
+optimize system kernel
+install k3s idempotent
