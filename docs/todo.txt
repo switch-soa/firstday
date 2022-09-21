@@ -1,1 +1,0 @@
-install k3s on multiple server

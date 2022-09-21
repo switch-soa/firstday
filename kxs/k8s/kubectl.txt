@@ -9,6 +9,6 @@ how to install it on your pc?
         extract it to local fix dir, like this: D:\server_files\k8s\v1.25.1
     set path:
         PATH        D:\program_files\connect\k8s\v1.25.1\kubernetes\client\bin
-        KUBECONFIG
+        KUBECONFIG  D:\configs\k8s\local\kubeconfig
     verify it:
         kubectl version
